@@ -1,6 +1,6 @@
 ---
 title: '稀奇古怪的中国经济'
-date: '2025-12-28'
+date: '2025-12-28T21:12:00'
 tags: ['Recap 1o1']
 draft: false
 summary: '这是一篇文章'
